@@ -71,4 +71,5 @@
 
 #second {
   transform: rotate(180deg);
+  transition-property: opacity;
 }
