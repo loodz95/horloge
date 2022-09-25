@@ -7,8 +7,8 @@ let date = new Date();
 let hours = ((date.getHours() + 11) % 12) + 1;
 let minutes = date.getMinutes();
 let seconds = date.getSeconds();
-let degHeure = 0;
-00833;
+let degHeure = 0.00833;
+
 let degMinute = 0.1;
 let degSeconde = 6;
 
